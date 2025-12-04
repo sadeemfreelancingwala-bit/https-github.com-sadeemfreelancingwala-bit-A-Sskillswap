@@ -1,0 +1,8 @@
+{
+  "name": "Abdullah & Sadeem SkillSwapper",
+  "description": "A platform to connect, teach, and learn skills via video exchange.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
